@@ -1,0 +1,20 @@
+.leftPanel-parent{
+    display: flex; 
+    flex-direction: column; 
+
+    background-color: white;
+    width: 200px; 
+    height: 600px;
+}
+
+.leftPanel-header{
+    display: flex; 
+    flex-direction: column; 
+
+    background-color: white; 
+}
+
+.Finance-Options{
+    color: black; 
+    font-size: large;
+}

@@ -1,0 +1,28 @@
+.Header{
+    position: absolute;
+    width: 1920px;
+    height: 86px;
+    left: 0px;
+    top: 0px;
+  }
+  
+  .Box{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+  
+    background: #FFFFFF;
+    box-shadow: 0px 4px 9px rgba(0, 0, 0, 0.07);
+  }
+  
+  .Ned-logo{
+    position: absolute;
+    width: 43px;
+    height: 18px;
+    left: 33px;
+    top: 30px;
+    background: #FFFFFF;
+    /* background: linear-gradient(301.28deg, #0962EA 8.46%, #0AA0F6 136.52%); */
+  }
