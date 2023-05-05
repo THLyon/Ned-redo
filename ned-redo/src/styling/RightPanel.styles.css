@@ -1,0 +1,276 @@
+.group-2413{
+    position: absolute;
+width: 617px;
+height: 883px;
+left: 0px;
+top: 0px;
+}
+
+.Vector-22{
+    position: absolute;
+    width: 381px;
+    height: 0px;
+    left: 1227px;
+    top: 501.29px;
+    margin: 20px;
+
+border: 1px solid #C4C4C4;
+}
+
+.results{ 
+    position: absolute;
+width: 105px;
+height: 22.26px;
+left: 1201px;
+top: 248.39px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 24px;
+/* or 80% */
+
+letter-spacing: 0.15px;
+
+color: #000000;
+}
+
+.rectangle-22B{
+    position: absolute;
+width: 617px;
+height: 883px;
+left: 1121px;
+top: 232px;
+
+background: rgba(255, 255, 255, 0.8);
+box-shadow: 0px 3px 20px 6px rgba(0, 0, 0, 0.02);
+border-radius: 20px;
+}
+
+.ABR{
+    position: absolute;
+width: 274px;
+height: 24px;
+left: 1200px;
+top: 348px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 24px;
+/* identical to box height, or 109% */
+
+letter-spacing: 0.15px;
+
+color: #000000;
+}
+
+.funding-amount{
+    position: absolute;
+    width: 173px;
+    height: 24px;
+    left: 1200px;
+    top: 399px;
+    
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 24px;
+    /* identical to box height, or 109% */
+    
+    letter-spacing: 0.15px;
+    
+    color: #000000;  
+}
+
+.fees{
+    position: absolute;
+width: 48px;
+height: 24px;
+left: 1200px;
+top: 460px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 24px;
+/* identical to box height, or 109% */
+
+letter-spacing: 0.15px;
+
+color: #000000;
+}
+
+.TRS{
+   
+position: absolute;
+width: 214px;
+height: 24px;
+left: 1200px;
+top: 521px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 24px;
+/* identical to box height, or 109% */
+
+letter-spacing: 0.15px;
+
+color: #000000; 
+}
+
+.expected-transfers{
+    position: absolute;
+width: 195px;
+height: 24px;
+left: 1200px;
+top: 582px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 24px;
+/* identical to box height, or 109% */
+
+letter-spacing: 0.15px;
+
+color: #000000;
+}
+
+.ECD{
+    position: absolute;
+    width: 269px;
+    height: 24px;
+    left: 1200px;
+    top: 643px;
+    
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 24px;
+    /* identical to box height, or 109% */
+    
+    letter-spacing: 0.15px;
+    
+    color: #000000;
+}
+
+.ABR-RES{
+    position: absolute;
+    width: 99px;
+    height: 24px;
+    left: 1563px;
+    top: 350px;
+    
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 24px;
+    /* identical to box height, or 109% */
+    
+    letter-spacing: 0.15px;
+    
+    color: #000000;
+}
+.funding-amount-res{
+    position: absolute;
+    width: 86px;
+    height: 24px;
+    left: 1576px;
+    top: 401px;
+    
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 24px;
+    /* identical to box height, or 109% */
+    
+    letter-spacing: 0.15px;
+    
+    color: #000000;
+    
+}
+.fees-res{
+    position: absolute;
+    width: 156px;
+    height: 24px;
+    left: 1506px;
+    top: 460px;
+    
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 24px;
+    /* identical to box height, or 109% */
+    
+    text-align: right;
+    letter-spacing: 0.15px;
+    
+    color: #000000;
+}
+.TRS-RES{
+    position: absolute;
+    width: 86px;
+    height: 24px;
+    left: 1576px;
+    top: 521px;
+    
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 24px;
+    /* identical to box height, or 109% */
+    
+    text-align: right;
+    letter-spacing: 0.15px;
+    
+    color: #000000;
+}
+.expected-transfers-res{
+    position: absolute;
+    width: 27px;
+    height: 24px;
+    left: 1635px;
+    top: 582px;
+    
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 24px;
+    /* identical to box height, or 109% */
+    
+    letter-spacing: 0.15px;
+    
+    color: #000000;
+}
+.ECD-RES{
+    position: absolute;
+    width: 178px;
+    height: 24px;
+    left: 1500px;
+    top: 643px;
+    
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 24px;
+    /* identical to box height, or 109% */
+    
+    letter-spacing: 0.15px;
+    
+    color: #0962EA;
+}

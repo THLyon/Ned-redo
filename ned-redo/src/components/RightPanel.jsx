@@ -1,13 +1,13 @@
 import '../styling/RightPanel.styles.css'
 
-const RightPanel = () => {
+const RightPanel = ({revenueAmount,fundingMax, findingMin, fee, desiredRepayment, fundingAmount, revPercentage, revFreq, useOfFunds, revMin, revMax}) => {
     return(
         <div>
         <div className='group-2413'>
             <div className='rectangle-22B'/>
             <p className='results'> Results </p>
-            <p className='ABR' > Annual Business Revenue </p>
-            <p className='funding-amount'> Funding Amount </p>
+            <p className='ABR' > {revenueAmount} </p>
+            <p className='funding-amount'> {fundingAmount} </p>
             <p className='fees'> Fees </p>
 
             <div className='Vector-22'/>

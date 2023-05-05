@@ -1,0 +1,20 @@
+.desired-delay-div{
+    position:absolute; 
+    width: 700px; 
+    height: 91px; 
+    left: 0px; 
+    top: 250px; 
+}
+
+.desired-title{
+    position: absolute; 
+    left: 120px;
+}
+
+.selector{
+    position: absolute; 
+    left: 440px; 
+    top: 20px;
+    width: 120px; 
+    height: 20px; 
+}
